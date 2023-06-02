@@ -1,0 +1,159 @@
+
+body {
+    background-image: url(/Image/Meteor\ \(1\).svg);
+    background-size: cover;
+ 
+}
+.navbar {
+    height: 9vh;
+}
+.navbar ul {
+    margin-left: 4vw;
+}
+
+.headB {
+    border: double rgb(56, 75, 160);
+    margin: 20px;
+}
+
+
+.container {
+    margin-top: 4vh;
+}
+.cont {
+    color: white;
+    border: double rgb(255, 255, 255) ;
+}
+.c3 {
+    margin: 2%;
+}
+@media (max-width: 800px) {
+    .navbar {
+        flex-direction: column;
+    }
+    .Aimage {
+        display: none;
+    }
+    .Rimage {
+        margin-top: 5%;
+    }
+    .carousel {
+        margin-top: 10%;
+    }
+}
+
+.btn-success {
+    margin-top: 1%;
+}
+
+.d-block {
+    width: 10vh;
+    height: 40vh;
+}
+.c-item {
+    height: 70vh;
+}
+.c-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+.card-img {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+footer {
+    bottom: 0;
+    width: 100%;
+    min-height: 10%;
+    margin-top: 10px;
+    
+}
+.nav-link {
+    color:white;
+}
+footer p {
+    color: white;
+}
+footer ul nav {
+    margin-left: 1500px;
+}
+.TT {
+    font-size:xx-large;
+    color: white;
+}
+.TT:hover {
+    color: rgb(4, 255, 255);
+}
+.lien {
+    color: black;
+}
+form {
+    color: white;
+}
+.msg {
+    height: 100px;
+}
+#exampleInputPassword2 {
+    height: 16vh;
+}
+.card {
+    height: 100%;
+    
+}
+.Aimage {
+    height: 50vh;
+    margin-bottom: 10vh;
+}
+.Atitle {
+    color: rgb(198, 251, 255);
+    font-size: xxx-large;
+}
+.Atexte {
+    width: fit-content;
+    color: rgb(198, 251, 255);
+    font-size: x-large;
+}
+.masthead {
+    margin-bottom: 100px;
+}
+.th {
+    margin: 11vh;
+}
+.car {
+    margin-left: 10vw;
+}
+.blop {
+    width: 100px;
+    height: 100px;
+}
+.Rimage {
+    max-width: 100%;
+    height: auto;
+}
+.TCard {
+    font-family: inherit;
+    font-size: x-large;
+    color: white;
+}
+.TCard:hover {
+    color: rgb(4, 255, 255);
+}
+.card {
+    width: 200px;
+    height: 200px;
+}
+.yes:hover {
+    color: rgb(4, 255, 255);
+}
+.retour {
+    color: rgb(0, 255, 0);
+}
+.Ccard {
+    width: 14vw;
+    height: 14vh;
+}
+.ES {
+    margin: 10px;
+}
